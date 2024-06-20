@@ -21,8 +21,13 @@
 1. AIIB. 2023. Nature as infrastructure (nature capital valuation). [Report](https://aiib-live-sgp-test.aiib.org/en/news-events/asian-infrastructure-finance/_common/pdf/AIIB-Asian-Infrastructure-Finance-2023-Report.pdf)
 2. Thia, J.P., J. Su, X. Kong. 2024. Do unpriced natural and ecosystem capital affect economic output. [Sustainable development](https://onlinelibrary.wiley.com/doi/10.1002/sd.2943), [AIIB WP 14](https://www.aiib.org/en/news-events/media-center/working-papers/pdf/AIIB-Working-Paper-14-Do-UNPRICED-NATURAL-AND-ECOSYSTEM-CAPITAL-AFFECT-ECONOMIC-OUTPUT-GROWTH-REGRESSION-ANALYSES-20240327.pdf),
 3. Cohen, F., C.J. Hepburh, A. Teytelboym. 2019. Is natural capital really substitutable? [Ann. Rev. of Environment and Resources 44](https://doi.org/10.1146/annurev-environ-101718-033055)
-4. Bastien-Olvera, B., F.C. Moore. 2022. [Ann. Review of Resource Economics 14](https://doi.org/10.1146/annurev-resource-111820-020204)
+4. Bastien-Olvera, B., F.C. Moore. 2022. Climate impacts on natural capital: consequences for the social cost of carbon. [Ann. Review of Resource Economics 14](https://doi.org/10.1146/annurev-resource-111820-020204)
+5. Mirzabaev, A., D. Wuepper. 2023. Economics of ecosystem restoration. [Ann. Rev. of Resource Economics 15](https://doi.org/10.1146/annurev-resource-101422-085414)
 
 ## Financial system
 
 1. Monasterolo, I. 2020. Climate change and the financial system. [Ann. Rev. of Resource Economics 12](https://doi.org/10.1146/annurev-resource-110119-031134)
+2. Zhou, F., T. Endendijk, W.J. Wouter Botzen. 2023. A review of the financial sector impacts of risks associated with climate change. [Ann. Rev. of Resource Economics 15](https://doi.org/10.1146/annurev-resource-101822-105702)
+3. Fullerton, D., C.W. Babbitt, M. Bilec, S. He, C. Isenjour, V. Khanna, E. Lee, T.L. Theis. 2022. [Introducing the circular economy to economists. Ann. Rev. of Resource Economics 14](https://doi.org/10.1146/annurev-resource-101321-053659)
+4. B. Caldecott, A. Clark, K. Kosekelo, E. Mulholland, C. Hickey. 2022. Straded assets: environmental drivers, societal challenges, and supervisory responses. [Ann. Rev. of Environment and Resources 14](https://doi.org/10.1146/annurev-environ-012220-101430)
+5. F. van der Ploeg, A. Rezai. 2020. Straded assets in the transition to a carbon-free economy. [Ann. Rev. of Resource Economics 12](https://doi.org/10.1146/annurev-resource-110519-040938)
