@@ -1,5 +1,7 @@
 # Literature review
 
+## Biodiversity
+
 1. Rebonato, R. 2024. Decarbonization and the pace of economic growth. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4804183) (see EDHEC Climate Impact Institute.
 2. Hong, H., A. Karolyi, J. Scheinkman. 2020. Climate finance. RFS 33(3) (*)
 3. Giglio, S., B. Kelly, J. Stroebel. 2021. Climate finance. [Ann. Rev. of Financial Economics 13](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-102620-103311) (*)
@@ -14,3 +16,13 @@
 12. Alonso, A., J.M. Carbon, J.M. Marques. 2023. Machine Learning Methods in Climate Finance: A Systematic Review. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352569)
 13. Deutz, A., Heal, G. M., Niu, R., Swanson, E., Townshend, T., Zhu, L., Delmar, A., Meghji, A., Sethi, S. A., and Tobin-de la Puente, J. [Financing nature.](https://financingnature.atkinson.cornell.edu/)
 
+## Natural Capital
+
+1. AIIB. 2023. Nature as infrastructure (nature capital valuation). [Report](https://aiib-live-sgp-test.aiib.org/en/news-events/asian-infrastructure-finance/_common/pdf/AIIB-Asian-Infrastructure-Finance-2023-Report.pdf)
+2. Thia, J.P., J. Su, X. Kong. 2024. Do unpriced natural and ecosystem capital affect economic output. [Sustainable development](https://onlinelibrary.wiley.com/doi/10.1002/sd.2943), [AIIB WP 14](https://www.aiib.org/en/news-events/media-center/working-papers/pdf/AIIB-Working-Paper-14-Do-UNPRICED-NATURAL-AND-ECOSYSTEM-CAPITAL-AFFECT-ECONOMIC-OUTPUT-GROWTH-REGRESSION-ANALYSES-20240327.pdf),
+3. Cohen, F., C.J. Hepburh, A. Teytelboym. 2019. Is natural capital really substitutable? [Ann. Rev. of Environment and Resources 44](https://doi.org/10.1146/annurev-environ-101718-033055)
+4. Bastien-Olvera, B., F.C. Moore. 2022. [Ann. Review of Resource Economics 14](https://doi.org/10.1146/annurev-resource-111820-020204)
+
+## Financial system
+
+1. Monasterolo, I. 2020. Climate change and the financial system. [Ann. Rev. of Resource Economics 12](https://doi.org/10.1146/annurev-resource-110119-031134)
